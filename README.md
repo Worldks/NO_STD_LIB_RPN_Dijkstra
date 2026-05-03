@@ -19,5 +19,7 @@ The program will only compile on Unix on an x86-compatible platform.
 >./prog
 
 # Usage  
+Enter an arithmetic expression (can consist of integers written in decimal notation, as well as symbols for the four arithmetic operations and parentheses)  
+
 Ввести арифметическое выражение (может состоять из целых чисел, записанных в десятичной системе,
 а также символов четырёх действий арифметики и круглых скобок)
